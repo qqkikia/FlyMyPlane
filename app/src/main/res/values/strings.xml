@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlyMyPlane</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_personal_screen">PersonalScreen</string>
+    <string name="title_activity_profile_setup_screen">ProfileSetupScreen</string>
+    <string name="title_activity_payment_info_screen">PaymentInfoScreen</string>
+</resources>
